@@ -89,7 +89,7 @@ export default {
 }
 </script>
 <style>
-   
+
 .sidebar {
     margin-top: 50px;
     width: 200px;
@@ -145,6 +145,9 @@ export default {
 
 .active {
     color: red;
+}
+body{
+    background-color: #777 !important;
 }
 
 .header h2 {
